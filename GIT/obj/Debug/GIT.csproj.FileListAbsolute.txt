@@ -1,0 +1,7 @@
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\bin\Debug\GIT.exe.config
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\bin\Debug\GIT.exe
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\bin\Debug\GIT.pdb
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\obj\Debug\GIT.csproj.AssemblyReference.cache
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\obj\Debug\GIT.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\obj\Debug\GIT.exe
+C:\Users\Yoga\OneDrive\Рабочий стол\GIT\GIT\obj\Debug\GIT.pdb
